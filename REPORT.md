@@ -6,6 +6,8 @@ Paste your checkpoint evidence below. Add screenshots as image files in the repo
 
 **Question 1: "What is the agentic loop?"**
 
+I MADE CHANGES
+
 The agentic loop is the core reasoning cycle that enables AI agents to act autonomously. It's the continuous process an
 agent follows to perceive, decide, and act in pursuit of a goal.
 
